@@ -1,0 +1,205 @@
+{
+ "body": {
+  "content": {
+   "pickupMessage": {
+    "stores": [
+     {
+      "storeName": "Galleria Dallas",
+      "storeNumber": "R746",
+      "storeDistanceWithUnit": "7.83 mi",
+      "partsAvailability": {
+       "MK1E4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1F4LL/A": {
+        "pickupDisplay": "available",
+        "pickupSearchQuote": "Available Today"
+       },
+       "MK1G4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1H4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1J4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1L4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1Q4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1R4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       }
+      }
+     },
+     {
+      "storeName": "NorthPark Center",
+      "storeNumber": "R144",
+      "storeDistanceWithUnit": "12.76 mi",
+      "partsAvailability": {
+       "MK1E4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1F4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1G4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1H4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1J4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1L4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1Q4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1R4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       }
+      }
+     },
+     {
+      "storeName": "Knox Street",
+      "storeNumber": "R042",
+      "storeDistanceWithUnit": "15.44 mi",
+      "partsAvailability": {
+       "MK1E4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1F4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1G4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1H4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1J4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1L4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1Q4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1R4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       }
+      }
+     },
+     {
+      "storeName": "Southlake Town Square",
+      "storeNumber": "R151",
+      "storeDistanceWithUnit": "16.08 mi",
+      "partsAvailability": {
+       "MK1E4LL/A": {
+        "pickupDisplay": "available",
+        "pickupSearchQuote": "Available Today"
+       },
+       "MK1F4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1G4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1H4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1J4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1L4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1Q4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1R4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       }
+      }
+     },
+     {
+      "storeName": "University Park Village",
+      "storeNumber": "R316",
+      "storeDistanceWithUnit": "35.23 mi",
+      "partsAvailability": {
+       "MK1E4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1F4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1G4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1H4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1J4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1L4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1Q4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       },
+       "MK1R4LL/A": {
+        "pickupDisplay": "unavailable",
+        "pickupSearchQuote": "Currently unavailable"
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}
